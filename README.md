@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @malucor
-- 👀 I’m interested in Programming, Science, Law, Books, Movies and many other things!
-- 🌱 I’m currently learning Data Analysis (Python, SQL, Power BI, ...) and Law
-- 💞️ I’m looking to collaborate on Data Analysis and Python projects
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/malu-analise-de-dados/), [Kaggle](https://www.kaggle.com/malucor)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá! Meu nome é Maria Luiza, temho um grande interesse em <strong>programação</strong> e estou aberta para projetos de Análise de Dados e Python.<br>
+  Sou uma estudante de Análise de Dados e também de Direito.
+</p>
+
+<p align="left">
+  🦄 Linguagens: **Python, SQL.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Pacote Offie, Power BI, Google Colab, VS Code, DataBricks.**
+</p>
+
+<p align="left">
+  💌 Como entrar em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malu-analise-de-dados/" /></a>
+</p>
 
 <!---
 malucor/malucor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
