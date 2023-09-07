@@ -17,11 +17,6 @@
   💌 Como entrar em contato comigo: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malu-analise-de-dados/" /></a>
-</p>
-
 <!---
 malucor/malucor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
