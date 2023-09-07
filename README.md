@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, SQL.**
+  🦄 Linguagens: Python, SQL.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Pacote Offie, Power BI, Google Colab, VS Code, DataBricks.**
+  💼 Ferramentas: Pacote Offie, Power BI, Google Colab, VS Code, DataBricks.
 </p>
 
 [![malucor](https://github-readme-stats.vercel.app/api/top-langs/?username=malucor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
