@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Maria Luiza, temho um grande interesse em <strong>programação</strong> e estou aberta para projetos de Análise de Dados e Python.<br>
+  Olá! Meu nome é Maria Luiza, tenho um grande interesse em <strong>programação</strong> e estou aberta para projetos de Análise de Dados e Python.<br>
   Sou uma estudante de Análise de Dados e também de Direito.
 </p>
 
