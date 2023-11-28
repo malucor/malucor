@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Pacote Office, Power BI, Google Colab, VS Code, DataBricks.
+  💼 Ferramentas: Pacote Office, Power BI, Looker Studio, Google Colab, VS Code, DataBricks.
 </p>
 
 [![malucor](https://github-readme-stats.vercel.app/api/top-langs/?username=malucor&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
