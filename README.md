@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é Maria Luiza, tenho um grande interesse em <strong>programação</strong> e estou aberta para projetos de Análise de Dados e Python.<br>
-  Sou uma estudante de Análise de Dados e também de Direito.
+  Sou uma estudante de Análise de Dados e também de Sistema da Informação.
 </p>
 
 <p align="left">
